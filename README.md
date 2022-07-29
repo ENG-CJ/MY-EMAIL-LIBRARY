@@ -40,8 +40,8 @@ Note : if you ommit arguments in <kbd>sendEmail() method</kbd> this method has d
 
 # Compatible
 This lib Only Compatible C# apps like
-> Winform Apps 
->  Asp.net  
+> Winform Apps <br>
+>  Asp.net  <br>
 > Console Apps 
 
 # Author 
