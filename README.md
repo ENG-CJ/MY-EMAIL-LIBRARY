@@ -1,6 +1,5 @@
 # MY-EMAIL-LIBRARY
-I've Developed this library that is used for email services like sending emails . this compatible only csharp language, add to your csharp projects for free
-
+I've Developed this library that is used for email services like sending emails . this compatible only csharp language, add to your csharp projects for free <br>
 # How to Add This File Into Ur Project
 First download this file then follow steps below.<br>
 1. Right Click Folder of your CSharp project<br>
